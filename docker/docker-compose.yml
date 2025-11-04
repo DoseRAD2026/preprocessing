@@ -1,0 +1,17 @@
+services:
+  doserad:
+    build:
+      context: .
+    volumes:
+      - /project_data_2/ai_dose_calculation/doserad/preprocessing:/code
+      - /project_data_2/ai_dose_calculation/doserad/data:/data
+      - /project_data_2/cbct/synthRAD/data/full/:/data_sr/
+    command: tail -F anything
+    shm_size: '20g'
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - driver: nvidia
+            count: 'all'
+            capabilities: [gpu]

@@ -1,0 +1,1638 @@
+1THA001:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA001/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA001/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA001/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA001/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA001/
+  ts_segmentation: true
+1THA002:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA002/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA002/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA002/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA002/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA002/
+  ts_segmentation: true
+1THA003:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA003/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA003/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA003/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA003/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA003/
+  ts_segmentation: true
+1THA004:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA004/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA004/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA004/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA004/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA004/
+  ts_segmentation: true
+1THA005:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA005/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA005/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA005/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA005/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA005/
+  ts_segmentation: true
+1THA010:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA010/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA010/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA010/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA010/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA010/
+  ts_segmentation: true
+1THA011:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA011/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA011/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA011/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA011/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA011/
+  ts_segmentation: true
+1THA013:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA013/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA013/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA013/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA013/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA013/
+  ts_segmentation: true
+1THA015:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA015/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA015/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA015/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA015/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA015/
+  ts_segmentation: true
+1THA016:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA016/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA016/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA016/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA016/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA016/
+  ts_segmentation: true
+1THA017:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA017/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA017/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA017/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA017/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA017/
+  ts_segmentation: true
+1THA018:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA018/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA018/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA018/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA018/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA018/
+  ts_segmentation: true
+1THA019:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA019/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA019/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA019/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA019/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA019/
+  ts_segmentation: true
+1THA022:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA022/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA022/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA022/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA022/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA022/
+  ts_segmentation: true
+1THA026:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA026/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA026/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA026/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA026/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA026/
+  ts_segmentation: true
+1THA028:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA028/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA028/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA028/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA028/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA028/
+  ts_segmentation: true
+1THA031:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA031/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA031/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA031/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA031/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA031/
+  ts_segmentation: true
+1THA032:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA032/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA032/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA032/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA032/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA032/
+  ts_segmentation: true
+1THA034:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA034/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA034/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA034/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA034/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA034/
+  ts_segmentation: true
+1THA039:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA039/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA039/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA039/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA039/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA039/
+  ts_segmentation: true
+1THA040:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA040/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA040/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA040/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA040/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA040/
+  ts_segmentation: true
+1THA041:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA041/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA041/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA041/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA041/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA041/
+  ts_segmentation: true
+1THA045:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA045/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA045/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA045/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA045/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA045/
+  ts_segmentation: true
+1THA046:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA046/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA046/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA046/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA046/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA046/
+  ts_segmentation: true
+1THA047:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA047/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA047/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA047/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA047/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA047/
+  ts_segmentation: true
+1THA048:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA048/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA048/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA048/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA048/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA048/
+  ts_segmentation: true
+1THA049:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA049/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA049/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA049/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA049/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA049/
+  ts_segmentation: true
+1THA050:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA050/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA050/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA050/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA050/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA050/
+  ts_segmentation: true
+1THA051:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA051/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA051/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA051/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA051/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA051/
+  ts_segmentation: true
+1THA052:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA052/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA052/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA052/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA052/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA052/
+  ts_segmentation: true
+1THA054:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA054/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA054/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA054/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA054/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA054/
+  ts_segmentation: true
+1THA055:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA055/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA055/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA055/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA055/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA055/
+  ts_segmentation: true
+1THA056:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA056/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA056/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA056/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA056/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA056/
+  ts_segmentation: true
+1THA058:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA058/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA058/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA058/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA058/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA058/
+  ts_segmentation: true
+1THA060:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA060/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA060/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA060/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA060/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA060/
+  ts_segmentation: true
+1THA203:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA203/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA203/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA203/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA203/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA203/
+  ts_segmentation: true
+1THA205:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA205/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA205/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA205/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA205/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA205/
+  ts_segmentation: true
+1THA207:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA207/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA207/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA207/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA207/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA207/
+  ts_segmentation: true
+1THA212:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA212/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA212/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA212/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA212/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA212/
+  ts_segmentation: true
+1THA213:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA213/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA213/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA213/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA213/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA213/
+  ts_segmentation: true
+1THA217:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA217/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA217/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA217/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA217/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA217/
+  ts_segmentation: true
+1THA221:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA221/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA221/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA221/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA221/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA221/
+  ts_segmentation: true
+1THA223:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA223/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA223/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA223/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA223/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA223/
+  ts_segmentation: true
+1THA224:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA224/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA224/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA224/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA224/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA224/
+  ts_segmentation: true
+1THA228:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA228/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA228/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA228/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA228/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA228/
+  ts_segmentation: true
+1THA230:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA230/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA230/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA230/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA230/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA230/
+  ts_segmentation: true
+1THA231:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA231/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA231/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA231/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA231/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA231/
+  ts_segmentation: true
+1THA234:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA234/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA234/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA234/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA234/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA234/
+  ts_segmentation: true
+1THA235:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA235/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA235/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA235/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA235/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA235/
+  ts_segmentation: true
+1THA237:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA237/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA237/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA237/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA237/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA237/
+  ts_segmentation: true
+1THA243:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA243/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA243/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA243/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA243/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA243/
+  ts_segmentation: true
+1THA244:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA244/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA244/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA244/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA244/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA244/
+  ts_segmentation: true
+1THA246:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA246/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA246/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA246/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA246/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA246/
+  ts_segmentation: true
+1THA248:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA248/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA248/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA248/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA248/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA248/
+  ts_segmentation: true
+1THA249:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA249/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA249/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA249/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA249/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA249/
+  ts_segmentation: true
+1THA250:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA250/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA250/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA250/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA250/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA250/
+  ts_segmentation: true
+1THA251:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA251/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA251/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA251/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA251/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA251/
+  ts_segmentation: true
+1THA252:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA252/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA252/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA252/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA252/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA252/
+  ts_segmentation: true
+1THA253:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA253/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA253/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA253/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA253/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA253/
+  ts_segmentation: true
+1THA255:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA255/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA255/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA255/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA255/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA255/
+  ts_segmentation: true
+1THA256:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA256/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA256/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA256/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA256/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA256/
+  ts_segmentation: true
+1THA257:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA257/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA257/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA257/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA257/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA257/
+  ts_segmentation: true
+1THA258:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA258/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA258/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA258/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA258/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA258/
+  ts_segmentation: true
+1THA259:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA259/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA259/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA259/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA259/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA259/
+  ts_segmentation: true
+1THA260:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA260/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA260/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA260/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA260/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA260/
+  ts_segmentation: true
+1THA261:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA261/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA261/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA261/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA261/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA261/
+  ts_segmentation: true
+1THA262:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA262/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA262/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA262/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA262/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA262/
+  ts_segmentation: true
+1THA265:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA265/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA265/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA265/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA265/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA265/
+  ts_segmentation: true
+1THA266:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA266/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA266/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA266/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA266/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA266/
+  ts_segmentation: true
+1THA267:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA267/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA267/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA267/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA267/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA267/
+  ts_segmentation: true
+1THA268:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA268/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA268/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA268/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA268/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA268/
+  ts_segmentation: true
+1THA269:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA269/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA269/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA269/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA269/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA269/
+  ts_segmentation: true
+1THA270:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA270/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA270/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA270/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA270/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA270/
+  ts_segmentation: true
+1THA271:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA271/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA271/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA271/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA271/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA271/
+  ts_segmentation: true
+1THA272:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA272/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA272/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA272/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA272/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA272/
+  ts_segmentation: true
+1THA273:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA273/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA273/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA273/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA273/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA273/
+  ts_segmentation: true
+1THA275:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA275/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA275/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA275/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA275/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA275/
+  ts_segmentation: true
+1THA276:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA276/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA276/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA276/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA276/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA276/
+  ts_segmentation: true
+1THA277:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA277/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA277/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA277/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA277/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA277/
+  ts_segmentation: true
+1THA279:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA279/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA279/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA279/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA279/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA279/
+  ts_segmentation: true
+1THA280:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA280/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA280/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA280/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA280/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA280/
+  ts_segmentation: true
+1THA281:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA281/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA281/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA281/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA281/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA281/
+  ts_segmentation: true
+1THA282:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA282/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA282/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA282/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA282/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA282/
+  ts_segmentation: true
+1THA283:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA283/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA283/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA283/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA283/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA283/
+  ts_segmentation: true
+1THA284:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA284/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA284/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA284/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA284/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA284/
+  ts_segmentation: true
+1THA286:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA286/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA286/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA286/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA286/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA286/
+  ts_segmentation: true
+1THA288:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA288/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA288/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA288/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA288/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA288/
+  ts_segmentation: true
+1THA289:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA289/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA289/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA289/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA289/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA289/
+  ts_segmentation: true
+1THA291:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA291/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA291/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA291/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA291/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA291/
+  ts_segmentation: true
+1THA292:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA292/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA292/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA292/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA292/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA292/
+  ts_segmentation: true
+1THA293:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA293/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA293/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THA293/mask.mha
+  sr_structures: /data_sr/A/Task1/TH/1THA293/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THA293/
+  ts_segmentation: true
+1THB002:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB002/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB002/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB002/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB002/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB002/
+  ts_segmentation: true
+1THB003:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB003/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB003/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB003/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB003/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB003/
+  ts_segmentation: true
+1THB004:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB004/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB004/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB004/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB004/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB004/
+  ts_segmentation: true
+1THB006:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB006/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB006/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB006/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB006/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB006/
+  ts_segmentation: true
+1THB008:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB008/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB008/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB008/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB008/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB008/
+  ts_segmentation: true
+1THB011:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB011/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB011/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB011/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB011/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB011/
+  ts_segmentation: true
+1THB015:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB015/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB015/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB015/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB015/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB015/
+  ts_segmentation: true
+1THB016:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB016/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB016/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB016/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB016/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB016/
+  ts_segmentation: true
+1THB017:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB017/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB017/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB017/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB017/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB017/
+  ts_segmentation: true
+1THB019:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB019/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB019/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB019/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB019/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB019/
+  ts_segmentation: true
+1THB021:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB021/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB021/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB021/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB021/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB021/
+  ts_segmentation: true
+1THB022:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB022/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB022/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB022/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB022/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB022/
+  ts_segmentation: true
+1THB023:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB023/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB023/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB023/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB023/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB023/
+  ts_segmentation: true
+1THB027:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB027/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB027/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB027/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB027/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB027/
+  ts_segmentation: true
+1THB028:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB028/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB028/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB028/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB028/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB028/
+  ts_segmentation: true
+1THB029:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB029/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB029/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB029/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB029/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB029/
+  ts_segmentation: true
+1THB031:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB031/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB031/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB031/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB031/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB031/
+  ts_segmentation: true
+1THB033:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB033/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB033/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB033/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB033/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB033/
+  ts_segmentation: true
+1THB034:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB034/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB034/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB034/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB034/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB034/
+  ts_segmentation: true
+1THB035:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB035/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB035/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB035/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB035/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB035/
+  ts_segmentation: true
+1THB037:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB037/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB037/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB037/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB037/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB037/
+  ts_segmentation: true
+1THB038:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB038/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB038/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB038/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB038/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB038/
+  ts_segmentation: true
+1THB043:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB043/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB043/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB043/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB043/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB043/
+  ts_segmentation: true
+1THB045:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB045/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB045/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB045/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB045/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB045/
+  ts_segmentation: true
+1THB046:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB046/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB046/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB046/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB046/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB046/
+  ts_segmentation: true
+1THB047:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB047/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB047/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB047/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB047/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB047/
+  ts_segmentation: true
+1THB048:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB048/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB048/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB048/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB048/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB048/
+  ts_segmentation: true
+1THB049:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB049/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB049/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB049/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB049/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB049/
+  ts_segmentation: true
+1THB050:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB050/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB050/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB050/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB050/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB050/
+  ts_segmentation: true
+1THB052:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB052/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB052/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB052/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB052/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB052/
+  ts_segmentation: true
+1THB053:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB053/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB053/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB053/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB053/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB053/
+  ts_segmentation: true
+1THB054:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB054/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB054/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB054/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB054/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB054/
+  ts_segmentation: true
+1THB057:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB057/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB057/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB057/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB057/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB057/
+  ts_segmentation: true
+1THB058:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB058/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB058/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB058/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB058/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB058/
+  ts_segmentation: true
+1THB060:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB060/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB060/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB060/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB060/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB060/
+  ts_segmentation: true
+1THB062:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB062/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB062/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB062/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB062/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB062/
+  ts_segmentation: true
+1THB063:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB063/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB063/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB063/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB063/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB063/
+  ts_segmentation: true
+1THB067:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB067/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB067/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB067/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB067/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB067/
+  ts_segmentation: true
+1THB068:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB068/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB068/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB068/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB068/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB068/
+  ts_segmentation: true
+1THB069:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB069/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB069/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB069/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB069/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB069/
+  ts_segmentation: true
+1THB072:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB072/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB072/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB072/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB072/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB072/
+  ts_segmentation: true
+1THB073:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB073/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB073/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB073/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB073/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB073/
+  ts_segmentation: true
+1THB074:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB074/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB074/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB074/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB074/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB074/
+  ts_segmentation: true
+1THB076:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB076/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB076/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB076/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB076/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB076/
+  ts_segmentation: true
+1THB078:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB078/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB078/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB078/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB078/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB078/
+  ts_segmentation: true
+1THB095:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB095/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB095/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB095/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB095/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB095/
+  ts_segmentation: true
+1THB100:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB100/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB100/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB100/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB100/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB100/
+  ts_segmentation: true
+1THB103:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB103/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB103/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB103/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB103/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB103/
+  ts_segmentation: true
+1THB106:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB106/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB106/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB106/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB106/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB106/
+  ts_segmentation: true
+1THB114:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB114/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB114/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB114/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB114/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB114/
+  ts_segmentation: true
+1THB119:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB119/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB119/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB119/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB119/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB119/
+  ts_segmentation: true
+1THB120:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB120/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB120/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB120/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB120/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB120/
+  ts_segmentation: true
+1THB121:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB121/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB121/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB121/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB121/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB121/
+  ts_segmentation: true
+1THB122:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB122/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB122/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB122/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB122/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB122/
+  ts_segmentation: true
+1THB124:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB124/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB124/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB124/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB124/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB124/
+  ts_segmentation: true
+1THB126:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB126/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB126/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB126/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB126/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB126/
+  ts_segmentation: true
+1THB133:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB133/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB133/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB133/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB133/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB133/
+  ts_segmentation: true
+1THB134:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB134/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB134/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB134/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB134/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB134/
+  ts_segmentation: true
+1THB135:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB135/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB135/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB135/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB135/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB135/
+  ts_segmentation: true
+1THB138:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB138/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB138/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB138/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB138/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB138/
+  ts_segmentation: true
+1THB141:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB141/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB141/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB141/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB141/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB141/
+  ts_segmentation: true
+1THB143:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB143/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB143/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB143/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB143/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB143/
+  ts_segmentation: true
+1THB149:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB149/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB149/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB149/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB149/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB149/
+  ts_segmentation: true
+1THB150:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB150/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB150/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB150/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB150/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB150/
+  ts_segmentation: true
+1THB151:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB151/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB151/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB151/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB151/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB151/
+  ts_segmentation: true
+1THB165:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB165/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB165/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB165/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB165/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB165/
+  ts_segmentation: true
+1THB179:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB179/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB179/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB179/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB179/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB179/
+  ts_segmentation: true
+1THB191:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB191/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB191/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB191/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB191/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB191/
+  ts_segmentation: true
+1THB193:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB193/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB193/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB193/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB193/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB193/
+  ts_segmentation: true
+1THB195:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB195/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB195/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB195/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB195/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB195/
+  ts_segmentation: true
+1THB196:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB196/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB196/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB196/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB196/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB196/
+  ts_segmentation: true
+1THB199:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB199/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB199/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB199/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB199/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB199/
+  ts_segmentation: true
+1THB200:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB200/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB200/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB200/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB200/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB200/
+  ts_segmentation: true
+1THB201:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB201/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB201/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB201/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB201/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB201/
+  ts_segmentation: true
+1THB202:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB202/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB202/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB202/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB202/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB202/
+  ts_segmentation: true
+1THB205:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB205/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB205/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB205/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB205/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB205/
+  ts_segmentation: true
+1THB207:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB207/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB207/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB207/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB207/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB207/
+  ts_segmentation: true
+1THB210:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB210/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB210/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB210/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB210/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB210/
+  ts_segmentation: true
+1THB211:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB211/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB211/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB211/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB211/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB211/
+  ts_segmentation: true
+1THB212:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB212/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB212/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB212/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB212/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB212/
+  ts_segmentation: true
+1THB214:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB214/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB214/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB214/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB214/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB214/
+  ts_segmentation: true
+1THB215:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB215/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB215/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB215/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB215/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB215/
+  ts_segmentation: true
+1THB216:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB216/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB216/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB216/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB216/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB216/
+  ts_segmentation: true
+1THB217:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB217/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB217/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB217/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB217/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB217/
+  ts_segmentation: true
+1THB218:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB218/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB218/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB218/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB218/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB218/
+  ts_segmentation: true
+1THB220:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB220/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB220/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB220/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB220/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB220/
+  ts_segmentation: true
+1THB221:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB221/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB221/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB221/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB221/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB221/
+  ts_segmentation: true
+1THB222:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB222/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB222/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB222/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB222/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB222/
+  ts_segmentation: true
+1THB224:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB224/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB224/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB224/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB224/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB224/
+  ts_segmentation: true
+1THB225:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB225/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB225/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB225/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB225/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB225/
+  ts_segmentation: true
+1THB226:
+  modality: MR
+  region: TH
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB226/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB226/mr.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task1_Train/Task1/TH/1THB226/mask.mha
+  sr_structures: /data_sr/B/Task1/TH/1THB226/output/structures/
+  output_dir: /data/DoseRAD2026/MR_CT/TH/1THB226/
+  ts_segmentation: true

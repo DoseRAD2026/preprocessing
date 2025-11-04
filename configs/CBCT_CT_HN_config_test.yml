@@ -1,0 +1,18 @@
+2HNB002:
+  modality: CBCT
+  region: HN
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task2_Train/Task2/HN/2HNB002/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task2_Train/Task2/HN/2HNB002/cbct.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task2_Train/Task2/HN/2HNB002/mask.mha
+  sr_structures: /data_sr/B/Task2/HN/2HNB002/output/structures/
+  output_dir: /data/DoseRAD2026/CBCT_CT/HN/2HNB002/
+  ts_segmentation: true
+2HNB005:
+  modality: CBCT
+  region: HN
+  ct_path: /data/SynthRAD2025/synthRAD2025_Task2_Train/Task2/HN/2HNB005/ct.mha
+  input_path: /data/SynthRAD2025/synthRAD2025_Task2_Train/Task2/HN/2HNB005/cbct.mha
+  sr_mask: /data/SynthRAD2025/synthRAD2025_Task2_Train/Task2/HN/2HNB005/mask.mha
+  sr_structures: /data_sr/B/Task2/HN/2HNB005/output/structures/
+  output_dir: /data/DoseRAD2026/CBCT_CT/HN/2HNB005/
+  ts_segmentation: true
