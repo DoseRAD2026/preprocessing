@@ -63,34 +63,34 @@ class PreProcessor:
 
     def ts_structures_path(self, structure_name: str) -> str:
         return os.path.join(self.config.output_dir, f'ts_structures')
-
-    # def deformation_complete(self) -> bool:
-    #     """Checks if all essential files after deformation exist."""
-    #     files_to_check = [
-    #         self.ct_def_path,
-    #         self.ct_dvf_path,
-    #     ]
-    #     return all(os.path.isfile(f) for f in files_to_check) # type: ignore
-
-    # def segmentation_complete(self) -> bool:
-    #     """Checks if all essential files after segmentation exist."""
-    #     files_to_check = [
-    #         self.ct_skin_path,
-    #         self.input_skin_path
-    #     ]
-    #     return all(os.path.isfile(f) for f in files_to_check) # type: ignore
-
+    
     ### main preprocessing function ###
     def run_preprocessing(self):
         self.logger.info("Starting preprocessing...")
-        self.load_images()
-        self.transfer_sr_images()
-        self.transfer_planning_structures()
-        self.run_deformation()
-        self.run_segmentation()
-        self.logger.info("Preprocessing completed.")
+        if self.patient_complete():
+            self.logger.info("All preprocessing files already exist. Skipping patient...")
+        else:
+            self.load_images()
+            self.transfer_sr_images()
+            self.transfer_planning_structures()
+            self.run_deformation()
+            self.run_segmentation()
+            self.logger.info("Preprocessing completed.")
     
     ### individual preprocessing steps ###
+    def patient_complete(self) -> bool:
+        """Checks if all essential files for the patient exist."""
+        files_to_check = [
+            self.ct_path(),
+            self.input_path(),
+            self.sr_mask_path(),
+            self.ct_def_path(),
+            self.ct_dvf_path(),
+            self.ct_body_path(),
+            self.input_body_path()
+        ]
+        return all(os.path.isfile(f) for f in files_to_check)
+    
     def load_images(self):
         self.logger.info("Loading images...")
         self.ct_image = io.read_image(self.config.ct_path)

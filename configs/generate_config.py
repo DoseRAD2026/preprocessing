@@ -5,9 +5,9 @@ import yaml
 SYNTHRAD2025_BASE = "/data/SynthRAD2025/"
 
 TASK = "1"
-ANATOMY = "TH"
+ANATOMY = "AB"
 
-OUTPUT_FILE = f"/code/configs/MR_CT_TH_config.yml"
+OUTPUT_FILE = f"/code/configs/MR_CT_AB_config.yml"
 
 data_dir = os.path.join(SYNTHRAD2025_BASE,f"synthRAD2025_Task{TASK}_Train",f'Task{TASK}', ANATOMY)
 cases = fnmatch.filter(os.listdir(data_dir), f"{TASK}{ANATOMY}*")

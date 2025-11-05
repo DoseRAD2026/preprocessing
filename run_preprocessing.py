@@ -6,7 +6,7 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     logger = logging.getLogger(__name__)
 
-    configs = load_patient_configs('./configs/MR_CT_TH_config.yml')
+    configs = load_patient_configs('./configs/MR_CT_AB_config.yml')
     skip_existing = True
 
     for patient_id, config in configs.items():
