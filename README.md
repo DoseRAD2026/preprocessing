@@ -4,8 +4,8 @@ A preprocessing pipeline for medical imaging data from the SynthRAD2025 dataset,
 
 ## Overview
 
-This pipeline processes CT, MR, and CBCT medical images to:
-- Perform deformable image registration between CT and MR/CBCT scans
+This pipeline processes CT and MR images to:
+- Perform deformable image registration between CT and MR scans
 - Generate automatic segmentations of anatomical structures
 - Prepare data for dose calculation in radiation therapy
 
@@ -13,9 +13,10 @@ This pipeline processes CT, MR, and CBCT medical images to:
 
 - **Deformable Image Registration**: Uses Convex Adam algorithm with MIND (Modality Independent Neighbourhood Descriptor) features
 - **Automatic Segmentation**: Leverages TotalSegmentator for organ-at-risk (OAR) structure segmentation
-- **Multi-modality Support**: Handles MR-to-CT and CBCT-to-CT registration
+- **Multi-modality Support**: Handles MR-to-CT registration
 - **Batch Processing**: Configuration-based processing of multiple patients
 - **Quality Control**: Generates visualization overlays for registration verification
+- **CBCT compatibility**: The pipeline can also handle CBCT images, however this functionality was not used for the DoseRAD2026 challenge
 
 ## Project Structure
 
